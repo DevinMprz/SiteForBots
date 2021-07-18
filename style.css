@@ -1,0 +1,32 @@
+.page-content{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.download-block{
+	width: 300px;
+	height: 300px;
+	border: solid 2px black;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.input-to-send-info-block{
+	width: 300px;
+	height: 300px;
+	border: solid 2px black;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.input-to-take-info-block{
+	width: 300px;
+	height: 300px;
+	border: solid 2px black;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
